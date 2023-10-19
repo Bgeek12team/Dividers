@@ -33,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DividersProject\\Interface\\Interface.csproj",
+      "projectUniqueName": "D:\\GitHub\\Dividers\\Interface\\Interface.csproj",
       "projectName": "Interface",
-      "projectPath": "D:\\DividersProject\\Interface\\Interface.csproj",
+      "projectPath": "D:\\GitHub\\Dividers\\Interface\\Interface.csproj",
       "packagesPath": "C:\\Users\\Администратор.000\\.nuget\\packages\\",
-      "outputPath": "D:\\DividersProject\\Interface\\obj\\",
+      "outputPath": "D:\\GitHub\\Dividers\\Interface\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -58,8 +58,8 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "D:\\DividersProject\\DividersProject\\DividersProject.csproj": {
-              "projectPath": "D:\\DividersProject\\DividersProject\\DividersProject.csproj"
+            "D:\\GitHub\\Dividers\\DividersProject\\DividersProject.csproj": {
+              "projectPath": "D:\\GitHub\\Dividers\\DividersProject\\DividersProject.csproj"
             }
           }
         }

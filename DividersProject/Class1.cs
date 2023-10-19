@@ -1,4 +1,4 @@
-﻿namespace DividersProject
+﻿namespace DividersProject// misha riguchiy svin
 {
     /// <summary>
     /// Модуль, позволяющий работать с числами и их делителями

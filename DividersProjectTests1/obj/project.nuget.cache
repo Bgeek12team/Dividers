@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SvPuqrCfdZg6LNoBzmSzNz6flZ2SBY0iXU17XJTt5vMSDymwTr5QEPGu1iSjBu4xagsPCNruBDSPeT6uQFCFEw==",
+  "dgSpecHash": "zhVFPwwBbEg9fIjPNfWuo0COoTFuxuwNwznhy/8RQoT1gSnZfqoEHzD5pnmMVUkgUCKVjOJXvsjLH3dExmhRCQ==",
   "success": true,
-  "projectFilePath": "D:\\DividersProject\\DividersProjectTests1\\DividersProjectTests1.csproj",
+  "projectFilePath": "D:\\GitHub\\Dividers\\DividersProjectTests1\\DividersProjectTests1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Администратор.000\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\Администратор.000\\.nuget\\packages\\microsoft.codecoverage\\17.3.2\\microsoft.codecoverage.17.3.2.nupkg.sha512",

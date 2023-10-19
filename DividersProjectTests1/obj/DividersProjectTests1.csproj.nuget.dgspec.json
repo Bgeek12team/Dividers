@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DividersProject\\DividersProjectTests1\\DividersProjectTests1.csproj": {}
+    "D:\\GitHub\\Dividers\\DividersProjectTests1\\DividersProjectTests1.csproj": {}
   },
   "projects": {
-    "D:\\DividersProject\\DividersProjectTests1\\DividersProjectTests1.csproj": {
+    "D:\\GitHub\\Dividers\\DividersProjectTests1\\DividersProjectTests1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DividersProject\\DividersProjectTests1\\DividersProjectTests1.csproj",
+        "projectUniqueName": "D:\\GitHub\\Dividers\\DividersProjectTests1\\DividersProjectTests1.csproj",
         "projectName": "DividersProjectTests1",
-        "projectPath": "D:\\DividersProject\\DividersProjectTests1\\DividersProjectTests1.csproj",
+        "projectPath": "D:\\GitHub\\Dividers\\DividersProjectTests1\\DividersProjectTests1.csproj",
         "packagesPath": "C:\\Users\\Администратор.000\\.nuget\\packages\\",
-        "outputPath": "D:\\DividersProject\\DividersProjectTests1\\obj\\",
+        "outputPath": "D:\\GitHub\\Dividers\\DividersProjectTests1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\DividersProject\\DividersProject\\DividersProject.csproj": {
-                "projectPath": "D:\\DividersProject\\DividersProject\\DividersProject.csproj"
+              "D:\\GitHub\\Dividers\\DividersProject\\DividersProject.csproj": {
+                "projectPath": "D:\\GitHub\\Dividers\\DividersProject\\DividersProject.csproj"
               }
             }
           }
@@ -85,14 +85,14 @@
         }
       }
     },
-    "D:\\DividersProject\\DividersProject\\DividersProject.csproj": {
+    "D:\\GitHub\\Dividers\\DividersProject\\DividersProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DividersProject\\DividersProject\\DividersProject.csproj",
+        "projectUniqueName": "D:\\GitHub\\Dividers\\DividersProject\\DividersProject.csproj",
         "projectName": "DividersProject",
-        "projectPath": "D:\\DividersProject\\DividersProject\\DividersProject.csproj",
+        "projectPath": "D:\\GitHub\\Dividers\\DividersProject\\DividersProject.csproj",
         "packagesPath": "C:\\Users\\Администратор.000\\.nuget\\packages\\",
-        "outputPath": "D:\\DividersProject\\DividersProject\\obj\\",
+        "outputPath": "D:\\GitHub\\Dividers\\DividersProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
