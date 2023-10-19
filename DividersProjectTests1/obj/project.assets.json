@@ -6788,24 +6788,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Алексей\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\MB_Markelov\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Алексей\\Source\\Repos\\Dividers\\DividersProjectTests1\\DividersProjectTests1.csproj",
+      "projectUniqueName": "C:\\Users\\MB_Markelov\\source\\repos\\Dividers\\DividersProjectTests1\\DividersProjectTests1.csproj",
       "projectName": "DividersProjectTests1",
-      "projectPath": "C:\\Users\\Алексей\\Source\\Repos\\Dividers\\DividersProjectTests1\\DividersProjectTests1.csproj",
-      "packagesPath": "C:\\Users\\Алексей\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Алексей\\Source\\Repos\\Dividers\\DividersProjectTests1\\obj\\",
+      "projectPath": "C:\\Users\\MB_Markelov\\source\\repos\\Dividers\\DividersProjectTests1\\DividersProjectTests1.csproj",
+      "packagesPath": "C:\\Users\\MB_Markelov\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\MB_Markelov\\source\\repos\\Dividers\\DividersProjectTests1\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Алексей\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\MB_Markelov\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6813,15 +6808,14 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Алексей\\Source\\Repos\\Dividers\\DividersProject\\DividersProject.csproj": {
-              "projectPath": "C:\\Users\\Алексей\\Source\\Repos\\Dividers\\DividersProject\\DividersProject.csproj"
+            "C:\\Users\\MB_Markelov\\source\\repos\\Dividers\\DividersProject\\DividersProject.csproj": {
+              "projectPath": "C:\\Users\\MB_Markelov\\source\\repos\\Dividers\\DividersProject\\DividersProject.csproj"
             }
           }
         }
@@ -6869,7 +6863,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   }
