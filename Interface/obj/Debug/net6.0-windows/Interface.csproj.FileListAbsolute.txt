@@ -1,0 +1,60 @@
+E:\второй курс\1ссем\ООП\делители проект\project\DividersProject\Interface\bin\Debug\net6.0-windows\Interface.exe
+E:\второй курс\1ссем\ООП\делители проект\project\DividersProject\Interface\bin\Debug\net6.0-windows\Interface.deps.json
+E:\второй курс\1ссем\ООП\делители проект\project\DividersProject\Interface\bin\Debug\net6.0-windows\Interface.runtimeconfig.json
+E:\второй курс\1ссем\ООП\делители проект\project\DividersProject\Interface\bin\Debug\net6.0-windows\Interface.dll
+E:\второй курс\1ссем\ООП\делители проект\project\DividersProject\Interface\bin\Debug\net6.0-windows\Interface.pdb
+E:\второй курс\1ссем\ООП\делители проект\project\DividersProject\Interface\obj\Debug\net6.0-windows\Interface.csproj.AssemblyReference.cache
+E:\второй курс\1ссем\ООП\делители проект\project\DividersProject\Interface\obj\Debug\net6.0-windows\Interface.Form1.resources
+E:\второй курс\1ссем\ООП\делители проект\project\DividersProject\Interface\obj\Debug\net6.0-windows\Interface.csproj.GenerateResource.cache
+E:\второй курс\1ссем\ООП\делители проект\project\DividersProject\Interface\obj\Debug\net6.0-windows\Interface.GeneratedMSBuildEditorConfig.editorconfig
+E:\второй курс\1ссем\ООП\делители проект\project\DividersProject\Interface\obj\Debug\net6.0-windows\Interface.AssemblyInfoInputs.cache
+E:\второй курс\1ссем\ООП\делители проект\project\DividersProject\Interface\obj\Debug\net6.0-windows\Interface.AssemblyInfo.cs
+E:\второй курс\1ссем\ООП\делители проект\project\DividersProject\Interface\obj\Debug\net6.0-windows\Interface.csproj.CoreCompileInputs.cache
+E:\второй курс\1ссем\ООП\делители проект\project\DividersProject\Interface\obj\Debug\net6.0-windows\Interface.dll
+E:\второй курс\1ссем\ООП\делители проект\project\DividersProject\Interface\obj\Debug\net6.0-windows\refint\Interface.dll
+E:\второй курс\1ссем\ООП\делители проект\project\DividersProject\Interface\obj\Debug\net6.0-windows\Interface.pdb
+E:\второй курс\1ссем\ООП\делители проект\project\DividersProject\Interface\obj\Debug\net6.0-windows\Interface.genruntimeconfig.cache
+E:\второй курс\1ссем\ООП\делители проект\project\DividersProject\Interface\obj\Debug\net6.0-windows\ref\Interface.dll
+E:\второй курс\1ссем\ООП\делители проект\project\DividersProject\Interface\bin\Debug\net6.0-windows\DividersProject.dll
+E:\второй курс\1ссем\ООП\делители проект\project\DividersProject\Interface\bin\Debug\net6.0-windows\DividersProject.pdb
+E:\второй курс\1ссем\ООП\делители проект\project\DividersProject\Interface\obj\Debug\net6.0-windows\Interface.csproj.CopyComplete
+C:\Users\UserName\Desktop\DividersProject\Interface\bin\Debug\net6.0-windows\Interface.exe
+C:\Users\UserName\Desktop\DividersProject\Interface\bin\Debug\net6.0-windows\Interface.deps.json
+C:\Users\UserName\Desktop\DividersProject\Interface\bin\Debug\net6.0-windows\Interface.runtimeconfig.json
+C:\Users\UserName\Desktop\DividersProject\Interface\bin\Debug\net6.0-windows\Interface.dll
+C:\Users\UserName\Desktop\DividersProject\Interface\bin\Debug\net6.0-windows\Interface.pdb
+C:\Users\UserName\Desktop\DividersProject\Interface\bin\Debug\net6.0-windows\DividersProject.dll
+C:\Users\UserName\Desktop\DividersProject\Interface\bin\Debug\net6.0-windows\DividersProject.pdb
+C:\Users\UserName\Desktop\DividersProject\Interface\obj\Debug\net6.0-windows\Interface.csproj.AssemblyReference.cache
+C:\Users\UserName\Desktop\DividersProject\Interface\obj\Debug\net6.0-windows\Interface.Form1.resources
+C:\Users\UserName\Desktop\DividersProject\Interface\obj\Debug\net6.0-windows\Interface.csproj.GenerateResource.cache
+C:\Users\UserName\Desktop\DividersProject\Interface\obj\Debug\net6.0-windows\Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UserName\Desktop\DividersProject\Interface\obj\Debug\net6.0-windows\Interface.AssemblyInfoInputs.cache
+C:\Users\UserName\Desktop\DividersProject\Interface\obj\Debug\net6.0-windows\Interface.AssemblyInfo.cs
+C:\Users\UserName\Desktop\DividersProject\Interface\obj\Debug\net6.0-windows\Interface.csproj.CoreCompileInputs.cache
+C:\Users\UserName\Desktop\DividersProject\Interface\obj\Debug\net6.0-windows\Interface.csproj.CopyComplete
+C:\Users\UserName\Desktop\DividersProject\Interface\obj\Debug\net6.0-windows\Interface.dll
+C:\Users\UserName\Desktop\DividersProject\Interface\obj\Debug\net6.0-windows\refint\Interface.dll
+C:\Users\UserName\Desktop\DividersProject\Interface\obj\Debug\net6.0-windows\Interface.pdb
+C:\Users\UserName\Desktop\DividersProject\Interface\obj\Debug\net6.0-windows\Interface.genruntimeconfig.cache
+C:\Users\UserName\Desktop\DividersProject\Interface\obj\Debug\net6.0-windows\ref\Interface.dll
+D:\DividersProject\Interface\bin\Debug\net6.0-windows\Interface.exe
+D:\DividersProject\Interface\bin\Debug\net6.0-windows\Interface.deps.json
+D:\DividersProject\Interface\bin\Debug\net6.0-windows\Interface.runtimeconfig.json
+D:\DividersProject\Interface\bin\Debug\net6.0-windows\Interface.dll
+D:\DividersProject\Interface\bin\Debug\net6.0-windows\Interface.pdb
+D:\DividersProject\Interface\bin\Debug\net6.0-windows\DividersProject.dll
+D:\DividersProject\Interface\bin\Debug\net6.0-windows\DividersProject.pdb
+D:\DividersProject\Interface\obj\Debug\net6.0-windows\Interface.csproj.AssemblyReference.cache
+D:\DividersProject\Interface\obj\Debug\net6.0-windows\Interface.Form1.resources
+D:\DividersProject\Interface\obj\Debug\net6.0-windows\Interface.csproj.GenerateResource.cache
+D:\DividersProject\Interface\obj\Debug\net6.0-windows\Interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\DividersProject\Interface\obj\Debug\net6.0-windows\Interface.AssemblyInfoInputs.cache
+D:\DividersProject\Interface\obj\Debug\net6.0-windows\Interface.AssemblyInfo.cs
+D:\DividersProject\Interface\obj\Debug\net6.0-windows\Interface.csproj.CoreCompileInputs.cache
+D:\DividersProject\Interface\obj\Debug\net6.0-windows\Interface.csproj.CopyComplete
+D:\DividersProject\Interface\obj\Debug\net6.0-windows\Interface.dll
+D:\DividersProject\Interface\obj\Debug\net6.0-windows\refint\Interface.dll
+D:\DividersProject\Interface\obj\Debug\net6.0-windows\Interface.pdb
+D:\DividersProject\Interface\obj\Debug\net6.0-windows\Interface.genruntimeconfig.cache
+D:\DividersProject\Interface\obj\Debug\net6.0-windows\ref\Interface.dll

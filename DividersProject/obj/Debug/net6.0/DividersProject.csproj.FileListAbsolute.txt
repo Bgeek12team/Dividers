@@ -1,0 +1,35 @@
+E:\второй курс\1ссем\ООП\делители проект\project\DividersProject\DividersProject\bin\Debug\net6.0\DividersProject.deps.json
+E:\второй курс\1ссем\ООП\делители проект\project\DividersProject\DividersProject\bin\Debug\net6.0\DividersProject.dll
+E:\второй курс\1ссем\ООП\делители проект\project\DividersProject\DividersProject\bin\Debug\net6.0\DividersProject.pdb
+E:\второй курс\1ссем\ООП\делители проект\project\DividersProject\DividersProject\obj\Debug\net6.0\DividersProject.csproj.AssemblyReference.cache
+E:\второй курс\1ссем\ООП\делители проект\project\DividersProject\DividersProject\obj\Debug\net6.0\DividersProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\второй курс\1ссем\ООП\делители проект\project\DividersProject\DividersProject\obj\Debug\net6.0\DividersProject.AssemblyInfoInputs.cache
+E:\второй курс\1ссем\ООП\делители проект\project\DividersProject\DividersProject\obj\Debug\net6.0\DividersProject.AssemblyInfo.cs
+E:\второй курс\1ссем\ООП\делители проект\project\DividersProject\DividersProject\obj\Debug\net6.0\DividersProject.csproj.CoreCompileInputs.cache
+E:\второй курс\1ссем\ООП\делители проект\project\DividersProject\DividersProject\obj\Debug\net6.0\DividersProject.dll
+E:\второй курс\1ссем\ООП\делители проект\project\DividersProject\DividersProject\obj\Debug\net6.0\refint\DividersProject.dll
+E:\второй курс\1ссем\ООП\делители проект\project\DividersProject\DividersProject\obj\Debug\net6.0\DividersProject.pdb
+E:\второй курс\1ссем\ООП\делители проект\project\DividersProject\DividersProject\obj\Debug\net6.0\ref\DividersProject.dll
+C:\Users\UserName\Desktop\DividersProject\DividersProject\bin\Debug\net6.0\DividersProject.deps.json
+C:\Users\UserName\Desktop\DividersProject\DividersProject\bin\Debug\net6.0\DividersProject.dll
+C:\Users\UserName\Desktop\DividersProject\DividersProject\bin\Debug\net6.0\DividersProject.pdb
+C:\Users\UserName\Desktop\DividersProject\DividersProject\obj\Debug\net6.0\DividersProject.csproj.AssemblyReference.cache
+C:\Users\UserName\Desktop\DividersProject\DividersProject\obj\Debug\net6.0\DividersProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UserName\Desktop\DividersProject\DividersProject\obj\Debug\net6.0\DividersProject.AssemblyInfoInputs.cache
+C:\Users\UserName\Desktop\DividersProject\DividersProject\obj\Debug\net6.0\DividersProject.AssemblyInfo.cs
+C:\Users\UserName\Desktop\DividersProject\DividersProject\obj\Debug\net6.0\DividersProject.csproj.CoreCompileInputs.cache
+C:\Users\UserName\Desktop\DividersProject\DividersProject\obj\Debug\net6.0\DividersProject.dll
+C:\Users\UserName\Desktop\DividersProject\DividersProject\obj\Debug\net6.0\refint\DividersProject.dll
+C:\Users\UserName\Desktop\DividersProject\DividersProject\obj\Debug\net6.0\DividersProject.pdb
+C:\Users\UserName\Desktop\DividersProject\DividersProject\obj\Debug\net6.0\ref\DividersProject.dll
+D:\DividersProject\DividersProject\obj\Debug\net6.0\DividersProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\DividersProject\DividersProject\obj\Debug\net6.0\DividersProject.AssemblyInfoInputs.cache
+D:\DividersProject\DividersProject\obj\Debug\net6.0\DividersProject.AssemblyInfo.cs
+D:\DividersProject\DividersProject\obj\Debug\net6.0\DividersProject.csproj.CoreCompileInputs.cache
+D:\DividersProject\DividersProject\obj\Debug\net6.0\DividersProject.dll
+D:\DividersProject\DividersProject\obj\Debug\net6.0\refint\DividersProject.dll
+D:\DividersProject\DividersProject\obj\Debug\net6.0\DividersProject.pdb
+D:\DividersProject\DividersProject\bin\Debug\net6.0\DividersProject.deps.json
+D:\DividersProject\DividersProject\bin\Debug\net6.0\DividersProject.dll
+D:\DividersProject\DividersProject\bin\Debug\net6.0\DividersProject.pdb
+D:\DividersProject\DividersProject\obj\Debug\net6.0\ref\DividersProject.dll
